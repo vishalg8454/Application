@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="hello_search_fragment">Hello search fragment</string>
+    <string name="to_be_implemented">To be implemented</string>
+    <string name="search">Search</string>
+
+</resources>
